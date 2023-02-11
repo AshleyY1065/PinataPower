@@ -1,0 +1,78 @@
+body {
+    font-family: "Rancho", Georgia, Times, 'Times New Roman', serif, ;
+    background-color: rgb(245, 236, 241);
+    background-image: url(/img/image-149256-removebg-preview.png);
+    height: 10%;
+    background-attachment: fixed;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 10%;
+    color: black;
+}
+header {
+    margin-bottom: auto;
+}
+/*===HERO*/
+.mask {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.bg-image {
+    background-image: url(/img/pinatapaper.jpg);
+    background-position: center;
+    height: 400px;
+    margin-top: 58px;
+}
+
+/*====HERO ENDING*/
+
+
+
+h1, h2, h3, h4 {
+    font-family: "Rancho";
+    text-align: center;
+}
+
+.row-content {
+    margin-top: 5%;
+    padding: 10px 0;
+    min-height: 200px;
+    background-color:  hwb(0 100% 0% / 0.75);
+    border:  10px inset hotpink;
+}
+
+.navbar {
+    font-family: "Rancho";
+    text-align: right;
+    background-size: 50%;
+    background-position: 50%;
+    background-color: #ffec5a;
+    font-size: x-large;
+}
+
+.nav-link {
+    color: white;
+}
+
+.jumbotron {
+    padding: 0%;
+}
+
+.card-title {
+    font-family: "Rancho";
+    text-align: center;
+    color: black;
+
+}
+.card-body {
+    background-color: rgb(233, 255, 145);
+}
+.card {
+    border: 8px solid rgb(233, 255, 145);
+}
+
+footer {
+    margin-top: 5%;
+    background-image: url(/img/glitter.jpg);
+    background-size: 100%;
+    background-position: 25%;
+}
